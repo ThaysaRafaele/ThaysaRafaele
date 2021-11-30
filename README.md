@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 Atualmente trabalho como programadora fullstack junior, com typescript, javascript, HTML, CSS, C# e me aventurando na manutenção de sistemas em VB.
-- 🌱 Estudando Angular.
+- 🌱 Estudando Angular e C#.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 - 😄 Pronome: Ela/Dela.
 
