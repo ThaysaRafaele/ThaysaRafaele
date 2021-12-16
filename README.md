@@ -4,7 +4,7 @@
 **ThaysaRafaele/ThaysaRafaele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+- 👩🏻‍🎓 Formada como Técnico em Informática (2015) pelo IFMS-Crb/MS. Estudante de Sistema de informação pela UFMS e Sitemas para Internet pela Unicesumar.
 - 🔭 Atualmente trabalho como programadora fullstack junior, com typescript, javascript, HTML, CSS, C# e me aventurando na manutenção de sistemas em VB.
 - 🌱 Estudando Angular e C#.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
