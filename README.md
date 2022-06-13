@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 - 👩🏻‍🎓 Formada como Técnico em Informática (2015) pelo IFMS-Crb/MS. Estudante de Sistema de informação pela UFMS e Sitemas para Internet pela Unicesumar.
-- 🔭 Atualmente trabalho como programadora fullstack junior, com typescript, javascript, HTML, CSS, C# e me aventurando na manutenção de sistemas em VB.
-- 🌱 Estudando Angular e C#.
+- 🔭 Atualmente trabalho como programadora fullstack junior, usando tecnologia MVC + Razor Pages no padrão DDD (C#, Javascript, HTML, CSS, Entity Framework, versionamento de código no Azure). Anteriormente, trabalhei com typescript, javascript, HTML, CSS, C# e me aventurei na manutenção de sistemas em VB.
+- 🌱 Estudando Angular, React e C#.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 - 😄 Pronome: Ela/Dela.
 
