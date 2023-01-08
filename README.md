@@ -4,9 +4,11 @@
 **ThaysaRafaele/ThaysaRafaele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 👩🏻‍🎓 Formada como Técnico em Informática (2015) pelo IFMS-Crb/MS. Estudante de Sistema de informação pela UFMS.
-- 🔭 Atualmente trabalho como programadora fullstack junior, usando tecnologia MVC + Razor Pages no padrão DDD (C#, Javascript, HTML, CSS, Entity Framework, versionamento de código no Azure). Anteriormente, trabalhei com typescript, javascript, HTML, CSS, C# e me aventurei na manutenção de sistemas em VB.
-- 🌱 Estudando Angular, React e C#.
+- 👩🏻‍🎓 Formada como Técnico em Informática (2015) pelo IFMS-Crb/MS. Graduanda no curso de tecnologia de informação, pela UFMS.
+- 🔭 Atualmente trabalho como programadora alocada na squad de frontend. Até então, sempre atuei como fullstack.
+- Usando tecnologia MVC + Razor Pages no padrão DDD (C#, Javascript, HTML, CSS, Entity Framework e versionamento de código no Azure). 
+- Anteriormente, trabalhei com typescript + javascript (angular), HTML, CSS, backende em C# e me aventurei na manutenção de sistemas em VB.
+- 🌱 Estudando Typescript  e C#.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 - 😄 Pronome: Ela/Dela.
 
