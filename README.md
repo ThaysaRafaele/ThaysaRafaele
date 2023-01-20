@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend. Até então, sempre atuei como fullstack.
 - Usando tecnologia .NET MVC + Razor Pages no padrão DDD (C#, Javascript, HTML, CSS, Entity Framework e versionamento de código no Azure). 
 - Anteriormente, trabalhei com typescript + javascript (angular), HTML, CSS, backend em C# e me aventurei na manutenção de sistemas em VB.
-- 🌱 Estudando Typescript  e C#.
+- 🌱 Estudando Typescript (React, React Native) e C#.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 - 😄 Pronome: Ela/Dela.
 
