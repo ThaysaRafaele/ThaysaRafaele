@@ -6,9 +6,9 @@
 Here are some ideas to get you started:-->
 - 👩🏻‍🎓 Formada no curso Técnico em Informática (2015) pelo IFMS-Crb/MS. Graduanda no curso de tecnologia de informação, pela UFMS.
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend. Até então, sempre atuei como fullstack.
-- Usando tecnologia .NET MVC + Razor Pages no padrão DDD (C#, Javascript, HTML, CSS, Entity Framework e versionamento de código no Azure). 
-- Anteriormente, trabalhei com typescript + javascript (angular), HTML, CSS, backend em C# e me aventurei na manutenção de sistemas em VB.
-- 🌱 Estudando Typescript (React, React Native) e C#.
+- Usando tecnologia .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, Javascript, HTML, CSS, Entity Framework e versionamento de código no Azure Repos Git). 
+- Anteriormente, trabalhei com typescript + javascript (angular), HTML, CSS, backend em .Net Core (C#) e me aventurei na manutenção de sistemas em VB (Windows Forms) e versionamento de código em TFS.
+- 🌱 Estudando Typescript (React, React Native), javascript e C#. De olho em certificações Microsoft.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 - 😄 Pronome: Ela/Dela.
 
