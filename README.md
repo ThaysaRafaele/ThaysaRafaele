@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - 🙋‍♀️ Tenho 25 nanos, conheci a área de tecnologia com 14 anos e me apixonei profundamente desde então.
 - 👩🏻‍🎓 Formada no curso Técnico em Informática (2015) pelo IFMS-Crb/MS. Graduanda no curso de tecnologia de informação, pela UFMS.
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend. Até então, sempre atuei como fullstack.
-- 💻 Usando tecnologia .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, Javascript, HTML, CSS, Entity Framework e versionamento de código no Azure Repos Git). 
+- 💻 Diariamente trabalho com tecnologia .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, API Restful, Javascript, JQuery, AJAX, HTML, CSS, Entity Framework e versionamento de código no Azure Repos Git). 
 - 💻 Anteriormente, trabalhei com typescript + javascript (Angular), HTML, CSS, backend em .Net Core (C#) e me aventurei na manutenção de sistemas em VB (Windows Forms) e versionamento de código em TFS.
 - 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#. De olho em certificações Microsoft.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
