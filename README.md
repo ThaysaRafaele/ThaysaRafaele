@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 💻 Experiência anterior: atuando como fullstack usando Angular no front e backend em .Net Core (C#). Além disso, me aventurei na manutenção de sistemas em VB (Windows Forms). Nessa época, o versionamento de código era usando TFS.
 - 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#. De olho em certificações Microsoft.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
-- 😄 Pronome: Ela/Dela.
 
 
 <div>
