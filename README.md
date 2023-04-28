@@ -1,9 +1,5 @@
 ### Olá, me chamo Thaysa Rafaele! 👋
-
-<!--
-**ThaysaRafaele/ThaysaRafaele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+<Br/>
 - 🙋‍♀️ Tenho 25 anos, conheci a área de tecnologia aos 14 anos, durante o ensino médio técnico, e me apaixonei profundamente desde então.
 - 👩🏻‍🎓 Formada no curso Técnico em Informática (2015) pelo IFMS-Crb/MS. Graduanda no curso de tecnologia de informação, pela UFMS. Pós-graduanda em Liderança e Gestão em Tecnologia pela Escola Conquer.
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs.
