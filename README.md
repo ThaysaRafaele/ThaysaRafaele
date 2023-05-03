@@ -1,4 +1,6 @@
 ### Olá, me chamo Thaysa Rafaele! 👋
+<br>
+<br>
 
 - 🙋‍♀️ Tenho 25 anos, conheci a área de tecnologia aos 14 anos, durante o ensino médio técnico, e me apaixonei profundamente desde então.
 - 👩🏻‍🎓 Formada no curso Técnico em Informática (2015) pelo IFMS-Crb/MS. Graduanda no curso de tecnologia de informação, pela UFMS. Pós-graduanda em Liderança e Gestão em Tecnologia pela Escola Conquer.
@@ -8,8 +10,8 @@
 - 💻 Experiência anterior: Já atuei como analista de suporte técnico e, posteriormente, Tester (QA).
 - 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#. De olho em certificações Microsoft.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
-
-
+<br>
+<br>
 <div>
   <a href="https://www.linkedin.com/in/thaysa-lacerda-3a2612154/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaysaRafaele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
