@@ -8,7 +8,8 @@
 - 💻 Experiência anterior: atuando inicialmente como fullstack e posteriormente com foco no fronted, trabalhei com .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, API Restful, Javascript, JQuery, AJAX, HTML, CSS, Bootstrap, CoreUI, Entity Framework e versionamento de código no Azure Repos Git). 
 - 💻 Experiência anterior: atuando como fullstack usando Angular no front e backend em .Net Core (C#). Além disso, me aventurei na manutenção de sistemas em VB (Windows Forms). Nessa época, o versionamento de código era usando TFS.
 - 💻 Experiência anterior: Já atuei como analista de suporte técnico e, posteriormente, Tester (QA).
-- 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#. De olho em certificações Microsoft.
+- 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#. De olho em certificações Microsoft. 
+- 🌱 Cursando formação em educação – Educa{devas}: Formando educadoras tech, pela {Reprograma}.
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 <br>
 <br>
