@@ -11,6 +11,7 @@
 - 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#.
 - 🌱 Cursando formação em Frontend – Vem ser tech: Ifood, parceria com a Ada. 
 - 🌱 Cursando formação em educação – Educa{devas}: Formando educadoras tech, pela {Reprograma}.
+
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 <br>
 <br>
