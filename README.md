@@ -9,8 +9,9 @@
 - 💻 Experiência anterior: atuando como fullstack usando Angular no front e backend em .Net Core (C#). Além disso, me aventurei na manutenção de sistemas em VB (Windows Forms). Nessa época, o versionamento de código era usando TFS.
 - 💻 Experiência anterior: Já atuei como analista de suporte técnico e, posteriormente, Tester (QA).
 - 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#.
-- 🌱 Cursando formação em Frontend – Vem ser tech: Ifood, parceria com a Ada. 
+- 🌱 Formação em Frontend – Vem ser tech: Ifood, parceria com a Ada (Março, 2024 - Concluído). 
 - 🌱 Cursando formação em educação – Educa{devas}: Formando educadoras tech, pela {Reprograma}.
+- 🌱 Mentora de programação - EmpowerHer 2024.
 
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 <br>
