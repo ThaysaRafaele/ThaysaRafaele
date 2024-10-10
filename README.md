@@ -11,7 +11,8 @@
 - 🌱 Estudando Typescript (React, React Native), javascript (Node.Js) e C#.
 - 🌱 Formação em Frontend – Vem ser tech: Ifood, parceria com a Ada (Março, 2024 - Concluído). 
 - 🌱 Cursando formação em educação – Educa{devas}: Formando educadoras tech, pela {Reprograma}.
-- 🌱 Mentora de programação - EmpowerHer 2024.
+- 🌱 Mentora de programação - EmpowerHer, 2024.
+- 🌱 Mentora de programação - Prototipando a Quebrada - PAQ, 2024.
 
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 <br>
