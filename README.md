@@ -3,9 +3,9 @@
 <br>
 
 - 🙋‍♀️ Tenho 27 anos, conheci a área de tecnologia aos 14 anos, durante o ensino médio técnico, e me apaixonei profundamente desde então.
-- 👩🏻‍🎓 Formada no curso Técnico em Informática (2015) pelo IFMS-Crb/MS.
-- 👩🏻‍🎓 Formada no curso de tecnologia de informação, pela UFMS.
-- 👩🏻‍🎓 Pós-graduanda em Liderança e Gestão em Tecnologia pela Escola Conquer.
+- 👩🏻‍🎓 Formada no curso Técnico em Informática, pelo IFMS.
+- 👩🏻‍🎓 Formada no curso de Tecnologia de Informação, pela UFMS.
+- 👩🏻‍🎓 Pós-graduanda em Liderança e Gestão em Tecnologia, pela Escola Conquer.
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs.
 - 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.
 - 💻 Experiência anterior: atuando inicialmente como fullstack e posteriormente com foco no fronted, trabalhei com .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, API Restful, Javascript, JQuery, AJAX, HTML, CSS, Bootstrap, CoreUI, Entity Framework e versionamento de código no Azure Repos Git). 
@@ -16,6 +16,7 @@
 - 🌱 Formação em educação – Educa{devas}: Formando educadoras tech, pela {Reprograma}.
 - 🌱 Mentora de programação - EmpowerHer, 2024.
 - 🌱 Mentora de programação - Prototipando a Quebrada - PAQ, 2024.
+- 🌱 Mentora de programação - Autônoma, 2024 e 2025.
 
 - 📫 Contate-me no email: thaysarafaele@gmail.com
 <br>
