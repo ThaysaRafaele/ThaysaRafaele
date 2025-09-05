@@ -6,7 +6,7 @@
 - 👩🏻‍🎓 Formada no curso Técnico em Informática, pelo IFMS.
 - 👩🏻‍🎓 Formada no curso de Tecnologia de Informação, pela UFMS.
 - 👩🏻‍🎓 Pós-graduada em Liderança e Gestão em Tecnologia, pela Escola Conquer.
-- 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs.
+- 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs e Angular.
 - 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.
 - 💻 Experiência anterior: atuando inicialmente como fullstack e posteriormente com foco no fronted, trabalhei com .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, API Restful, Javascript, JQuery, AJAX, HTML, CSS, Bootstrap, CoreUI, Entity Framework e versionamento de código no Azure Repos Git). 
 - 💻 Experiência anterior: atuando como fullstack usando Angular no front e backend em .Net Core (C#). Além disso, me aventurei na manutenção de sistemas em VB (Windows Forms). Nessa época, o versionamento de código era usando TFS.
