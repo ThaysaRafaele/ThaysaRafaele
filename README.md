@@ -2,12 +2,13 @@
 <br>
 <br>
 
-- 🙋‍♀️ Tenho 27 anos, conheci a área de tecnologia aos 14 anos, durante o ensino médio técnico, e me apaixonei profundamente desde então.
+- 🙋‍♀️ Tenho 28 anos, conheci a área de tecnologia aos 14 anos, durante o ensino médio técnico, e me apaixonei profundamente desde então.
 - 👩🏻‍🎓 Formada no curso Técnico em Informática, pelo IFMS.
 - 👩🏻‍🎓 Formada no curso de Tecnologia de Informação, pela UFMS.
 - 👩🏻‍🎓 Pós-graduada em Liderança e Gestão em Tecnologia, pela Escola Conquer.
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs e Angular.
 - 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.
+- 🔭 Atuei como professora de Python (Visualização de dados com bibliotecas Python: Matplotlib, Seaborn e Plotly) em um módulo do bootcamp de BI na WoMakers Code, 2025.
 - 💻 Experiência anterior: atuando inicialmente como fullstack e posteriormente com foco no fronted, trabalhei com .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, API Restful, Javascript, JQuery, AJAX, HTML, CSS, Bootstrap, CoreUI, Entity Framework e versionamento de código no Azure Repos Git). 
 - 💻 Experiência anterior: atuando como fullstack usando Angular no front e backend em .Net Core (C#). Além disso, me aventurei na manutenção de sistemas em VB (Windows Forms). Nessa época, o versionamento de código era usando TFS.
 - 💻 Experiência anterior: Já atuei como analista de suporte técnico e, posteriormente, Tester (QA).
