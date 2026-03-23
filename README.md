@@ -10,7 +10,7 @@
   <br>
 <br>
 - 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs e Angular.<br>
-- - 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
+- 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
 - 🔭 Atuei como professora de Python (Visualização de dados com bibliotecas Python: Matplotlib, Seaborn e Plotly) em um módulo do bootcamp de BI na WoMakers Code, 2025.<br>
 - 🔭 Também atuo como professora de Jogos Digitais para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
  <br>
