@@ -9,12 +9,14 @@
 - 👩🏻‍🎓 Pós-graduada em Liderança e Gestão em Tecnologia, pela Escola Conquer.
   <br>
 <br>
-- 🔭 Atualmente trabalho como programadora alocada na squad de frontend usando ReactJs e Angular.<br>
+- 🔭 Atuo como desenvolvedora autônoma na criação e manutenção de sitemas para pequenas empresas e instituições.
+- 🔭 Atuo como professora de programação (Python e Scratch) para crianças e adolescentes ma Kodland <br>
 - 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
 - 🔭 Atuei como professora de Python (Visualização de dados com bibliotecas Python: Matplotlib, Seaborn e Plotly) em um módulo do bootcamp de BI na WoMakers Code, 2025.<br>
 - 🔭 Também atuo como professora de Jogos Digitais para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
  <br>
 <br>
+- 💻 Experiência anterior: Atuei como programadora alocada na squad de frontend usando ReactJs e Angular para o desenvolvimento do sistema hospitalar da Hapvida.<br>
 - 💻 Experiência anterior: atuando inicialmente como fullstack e posteriormente com foco no fronted, trabalhei com .NET MVC + Razor Pages no padrão DDD (usando, dentre outras, C#, API Restful, Javascript, JQuery, AJAX, HTML, CSS, Bootstrap, CoreUI, Entity Framework e versionamento de código no Azure Repos Git). <br>
 - 💻 Experiência anterior: atuando como fullstack usando Angular no front e backend em .Net Core (C#). Além disso, me aventurei na manutenção de sistemas em VB (Windows Forms). Nessa época, o versionamento de código era usando TFS.<br>
 - 💻 Experiência anterior: Já atuei como analista de suporte técnico e, posteriormente, Tester (QA).<br>
