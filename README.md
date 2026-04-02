@@ -3,7 +3,7 @@
 <br>
 
 - 🙋‍♀️ Tenho 28 anos, conheci a área de tecnologia aos 14 anos, durante o ensino médio técnico, e me apaixonei profundamente desde então.
-- 👩🏻‍🎓 Mestranda em Computação Aplicada, pela UFNS - Universidade Federal de Mato Grosso do Sul.
+- 👩🏻‍🎓 Mestranda em Computação Aplicada, pela UFMS - Universidade Federal de Mato Grosso do Sul.
 - 👩🏻‍🎓 Formada no curso Técnico em Informática, pelo IFMS - Instituto Federal de Mato Grosso do Sul.
 - 👩🏻‍🎓 Formada no curso de Tecnologia de Informação, pela UFMS - Universidade Federal de Mato Grosso do Sul.
 - 👩🏻‍🎓 Pós-graduada em Liderança e Gestão em Tecnologia, pela Escola Conquer.
