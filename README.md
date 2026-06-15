@@ -15,6 +15,7 @@
 - 🔭 Também atuo como professora de Inteligência Artificial para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
 - 🔭 Atuei como professora de Python (Visualização de dados com bibliotecas Python: Matplotlib, Seaborn e Plotly) em um módulo do bootcamp de BI na WoMakers Code, 2025.<br>
 - 🔭 Também atuo como professora de Jogos Digitais para alunos da rede pública de ensino, no estado do Mato Grosso do Sul.<br>
+- 🔭 Residente na Procuradoria Geral do Estado de Mato Grosso do Sul - PGE/MS, atuando em atividades relacionadas às novas áreas e à tendência de transformação digital, às tecnologias da informação e comunicação, à engenharia de software e à inteligência artificial.<br>
  <br>
 <br>
 - 💻 Experiência anterior: Atuei como programadora alocada na squad de frontend usando ReactJs e Angular para o desenvolvimento do sistema hospitalar da Hapvida.<br>
